@@ -1,0 +1,17 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "This is a live weather Application which tells you the real time weather conditions accross the globe made using HTML CSS & JS.<br>\r Want a demo Visit : [Link](https://weather-app-pratz.herokuapp.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "Samruddhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.1.2",
+    "nodemon": "^2.0.22"
+  }
+}
